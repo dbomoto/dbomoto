@@ -14,7 +14,7 @@ I am a self-taught Full-stack Web Developer and also a licensed Electronics and 
     + 🎥 Movies
     
     
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) followed with ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) as my language and framework for my next project.
+- 🌱 I’m currently learning the ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) framework for my next project.
 
 
 - 📜 The following are my skillset
