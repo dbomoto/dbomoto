@@ -32,7 +32,7 @@ I am a self-taught Full-stack Web Developer and also a licensed Electronics and 
     
 - 📫 How to reach me ...
     + 📧 Email: dbomoto@gmail.com
-    + 🌐 Portfolio Website: https://dbomoto.github.io/
+    + 🌐 Portfolio Website: https://dbowebdev.com/
     + ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/daniel-benedict-omoto-04a232206/
 
 <!---
